@@ -6,6 +6,10 @@ This project analyses the Brazilian E-commerce Public Dataset by Olist to discov
 
 The objective is to transform raw e-commerce data into meaningful business insights using Python and data visualisation.
 
+## 📊 RFM Customer Segmentation Dashboard
+
+![RFM Dashboard](output/rfm_dashboard.png)
+
 ## Business Objectives
 
 - Analyse product and shipping revenue.
