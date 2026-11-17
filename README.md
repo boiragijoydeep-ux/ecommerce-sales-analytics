@@ -1,3 +1,5 @@
+![Brazilian E-commerce Sales Analytics](output/project_banner.png)
+
 # Brazilian E-commerce Sales Analytics
 
 ## Project Overview
